@@ -1,0 +1,21 @@
+body{
+  color:#ff0000;
+  background:lightyellow;
+  font-family:monospace;
+}
+hr {
+    height: 2px;
+    border: none;
+    background-color: rgb(255,0,0);
+}
+ul {
+    list-style-type: square;
+}
+
+img{
+  width:220px;
+  border-color:red;
+  border-width:3px;
+  border-style:solid;
+  float:right;
+}
